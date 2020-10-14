@@ -1,0 +1,9 @@
+django~=3.1
+djangorestframework~=3.11.1
+djangorestframework-camel-case
+gunicorn
+gevent
+psycopg2-binary
+django-cors-headers
+whitenoise
+drf-yasg
